@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/images/banner.png" alt="PilotLookUp" width="720"></p>
+
 # PilotLookUp
 Инструмент для разработчиков и администраторов, позволяющий легко просматривать и изучать объекты Pilot.
 
