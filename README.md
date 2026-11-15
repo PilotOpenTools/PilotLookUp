@@ -24,3 +24,5 @@
 # Участие
 
 Перед отправкой issue или pull request ознакомьтесь с [руководством по участию](https://github.com/PilotOpenTools/.github/blob/main/CONTRIBUTING.md) и [Кодексом поведения](https://github.com/PilotOpenTools/.github/blob/main/CODE_OF_CONDUCT.md).
+
+Сборка и отладка: [docs/development.md](docs/development.md). Выпуск релиза: [docs/releasing.md](docs/releasing.md).
