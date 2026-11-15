@@ -15,3 +15,12 @@
 ![image](https://github.com/user-attachments/assets/49a2ca46-5f70-4c40-b437-f4ad3c601391)
 
 <img width="1920" height="1023" alt="image" src="https://github.com/user-attachments/assets/fc6281f6-3338-4bd3-97fc-6763133d6a89" />
+
+
+# Лицензия
+
+Проект распространяется по лицензии [Apache 2.0](LICENSE).
+
+# Участие
+
+Перед отправкой issue или pull request ознакомьтесь с [руководством по участию](https://github.com/PilotOpenTools/.github/blob/main/CONTRIBUTING.md) и [Кодексом поведения](https://github.com/PilotOpenTools/.github/blob/main/CODE_OF_CONDUCT.md).
